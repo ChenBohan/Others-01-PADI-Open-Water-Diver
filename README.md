@@ -1,7 +1,7 @@
 # Others-01-PADI-Open-Water-Diver
 Notes for PADI open water diver
 
-## 1.2.理论
+## 1.2.理论 第二课
 
 - 水压
   - 每下潜10m，水压增加1bar。
@@ -227,7 +227,7 @@ Notes for PADI open water diver
     - 在上升到5m时，停留3-5min
     - 让身体有更多时间释放溶解在体内的气体
     
-## 2.4 技巧
+## 2.4 技巧 第八课
 
 - 配重测试
   - 正确的配重：
@@ -243,4 +243,4 @@ Notes for PADI open water diver
   - 蛙鞋旋轴法
     - 吸气时向上浮，呼气时向下沉
     - 若不是，给BCD充一点气，再试。
-    
+
