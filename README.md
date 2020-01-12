@@ -1,7 +1,7 @@
 # Others-01-PADI-Open-Water-Diver
 Notes for PADI open water diver
 
-## 1.2.理论 第二课
+## 第二课 1.2.理论
 
 - 水压
   - 每下潜10m，水压增加1bar。
@@ -47,7 +47,7 @@ Notes for PADI open water diver
     - 吸气时稍微增加浮力。
     - 呼气时稍微减小浮力。
 
-## 1.2.技巧1
+## 第三课 技巧1
 
 - 组装水肺系统
   - 固定BCD和气瓶
@@ -73,7 +73,7 @@ Notes for PADI open water diver
     
 - 潜水手势
 
-## 1.3.技巧2
+## 第四课 技巧2
 
 - 调节器排水
   - 吐气法：
@@ -151,7 +151,7 @@ Notes for PADI open water diver
   - 2.出水前脱下蛙鞋；
   - 3.继续佩戴面镜，从呼吸管或调节器呼吸。
 
-## 2.2.理论1
+## 第六课 理论1
 
 - 声音
   - 声音在水里传播速度为空气中的4倍，传播距离更远。
@@ -181,7 +181,7 @@ Notes for PADI open water diver
   - 原因：调节器提供的氧气少于身体消耗的氧气。
   - 方法：应停止所有活动，原地休息。
   
-## 2.2 理论2
+## 第七课 理论2
 
 - 下水前安全检查（begin with review and friend）
   - B：BCD
@@ -227,7 +227,7 @@ Notes for PADI open water diver
     - 在上升到5m时，停留3-5min
     - 让身体有更多时间释放溶解在体内的气体
     
-## 2.4 技巧 第八课
+## 第九课 技巧
 
 - 配重测试
   - 正确的配重：
@@ -244,3 +244,7 @@ Notes for PADI open water diver
     - 吸气时向上浮，呼气时向下沉
     - 若不是，给BCD充一点气，再试。
 
+## 第十四课 技巧
+
+- 从不断漏气的调节器呼吸
+  - 1.将咬嘴
