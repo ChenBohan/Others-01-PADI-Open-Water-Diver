@@ -1,6 +1,8 @@
 # Others-01-PADI-Open-Water-Diver
 Notes for PADI open water diver
 
+Video：[国语潜水教学PADI](https://space.bilibili.com/81272160?from=search&seid=12288453293710257548)
+
 ## 第二课 1.2.理论
 
 - 水压
